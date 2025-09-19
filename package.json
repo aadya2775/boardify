@@ -1,5 +1,5 @@
 {
-  "name": "miro-clone",
+  "name": "boardify",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.29.6",
+    "@clerk/nextjs": "^4.31.8",
     "@liveblocks/client": "^1.9.7",
     "@liveblocks/node": "^1.9.7",
     "@liveblocks/react": "^1.9.7",
@@ -26,7 +26,7 @@
     "date-fns": "^3.3.1",
     "lucide-react": "^0.323.0",
     "nanoid": "^5.0.5",
-    "next": "14.1.0",
+    "next": "14.2.25",
     "next-themes": "^0.2.1",
     "perfect-freehand": "^1.2.0",
     "query-string": "^8.2.0",
